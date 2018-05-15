@@ -1,7 +1,8 @@
 # candles-highchart
 
-[highcharts-angular](https://github.com/highcharts/highcharts-angular)
+[Highcharts angular](https://github.com/highcharts/highcharts-angular)
 
+## Install
 1.  Download source files
 2.  Run `npm install` to install all dependencies.
 3.  Run `npm run build` to bundle `js/app.js` into `dist/bundle.js`
